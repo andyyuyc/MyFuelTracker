@@ -1,0 +1,103 @@
+{
+  "identifier" : "5B8FC7F1",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "4D834784",
+      "localizations" : [
+
+      ],
+      "name" : "Subscription",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+            {
+              "internalID" : "31DE934B",
+              "offerID" : "",
+              "paymentMode" : "free",
+              "referenceName" : "",
+              "subscriptionPeriod" : "P3D"
+            }
+          ],
+          "displayPrice" : "2.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "3194CC88",
+          "introductoryOffer" : {
+            "internalID" : "6D9A3371",
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P3D"
+          },
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "fuel.tracker.monthly.productId",
+          "recurringSubscriptionPeriod" : "P3M",
+          "referenceName" : null,
+          "subscriptionGroupID" : "4D834784",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "4.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "F3293102",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "fuel.tracker.six.months.productId",
+          "recurringSubscriptionPeriod" : "P6M",
+          "referenceName" : null,
+          "subscriptionGroupID" : "4D834784",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "7.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "3421A4F8",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "fuel.tracker.yearly.productId",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : null,
+          "subscriptionGroupID" : "4D834784",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}

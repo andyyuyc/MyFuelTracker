@@ -1,0 +1,70 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "GoogleAppMeasurement",
+        "repositoryURL": "https://github.com/google/GoogleAppMeasurement.git",
+        "state": {
+          "branch": null,
+          "revision": "192cce3e0486aecfdb61102a9c694c78dc89dc48",
+          "version": "9.1.0"
+        }
+      },
+      {
+        "package": "GoogleUtilities",
+        "repositoryURL": "https://github.com/google/GoogleUtilities.git",
+        "state": {
+          "branch": null,
+          "revision": "f4abe56ce62a779e64b525eb133c8fc2a84bbc1f",
+          "version": "7.7.1"
+        }
+      },
+      {
+        "package": "nanopb",
+        "repositoryURL": "https://github.com/firebase/nanopb.git",
+        "state": {
+          "branch": null,
+          "revision": "819d0a2173aff699fb8c364b6fb906f7cdb1a692",
+          "version": "2.30909.0"
+        }
+      },
+      {
+        "package": "Promises",
+        "repositoryURL": "https://github.com/google/promises.git",
+        "state": {
+          "branch": null,
+          "revision": "46c1e6b5ac09d8f82c991061c659f67e573d425d",
+          "version": "2.1.0"
+        }
+      },
+      {
+        "package": "GoogleMobileAds",
+        "repositoryURL": "https://github.com/googleads/swift-package-manager-google-mobile-ads.git",
+        "state": {
+          "branch": "master",
+          "revision": "2edcc48f663184143214fda29f3235823d06a8d7",
+          "version": null
+        }
+      },
+      {
+        "package": "GoogleUserMessagingPlatform",
+        "repositoryURL": "https://github.com/googleads/swift-package-manager-google-user-messaging-platform.git",
+        "state": {
+          "branch": null,
+          "revision": "3b924ce3313a5fd2fc6a8dc889a8c38f76890fe3",
+          "version": "2.0.0"
+        }
+      },
+      {
+        "package": "SwiftyStoreKit",
+        "repositoryURL": "https://github.com/bizz84/SwiftyStoreKit",
+        "state": {
+          "branch": "master",
+          "revision": "f3265c7c211907ad913102c61c3972b880f0675c",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
