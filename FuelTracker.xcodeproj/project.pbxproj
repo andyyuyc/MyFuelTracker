@@ -732,7 +732,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = FuelTracker/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = MyFuelTracker;
+				INFOPLIST_KEY_CFBundleDisplayName = MyFuelTrack;
 				INFOPLIST_KEY_NSUserTrackingUsageDescription = "This identifier will be used to deliver personalized ads to you.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -770,7 +770,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = FuelTracker/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = MyFuelTracker;
+				INFOPLIST_KEY_CFBundleDisplayName = MyFuelTrack;
 				INFOPLIST_KEY_NSUserTrackingUsageDescription = "This identifier will be used to deliver personalized ads to you.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
