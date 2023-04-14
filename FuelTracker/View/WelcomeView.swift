@@ -20,7 +20,7 @@ struct WelcomeView: View {
                 .multilineTextAlignment(.center)
                 .padding(.horizontal, 48)
             Text("Track fuel costs")
-            Text("MyFuelTrack provides an easy way to log your car's fuel expenses. Track fuel costs.")
+            Text("MyFuelTracker provides an easy way to log your car's fuel expenses. Track fuel costs.")
                 .multilineTextAlignment(.center)
                 .padding(.horizontal)
                 .foregroundColor(.secondary)

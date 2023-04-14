@@ -21,7 +21,7 @@ struct SplashView: View {
                     .frame(width: 200, height: 200)
                     .cornerRadius(20)
                 
-                Text("MyFuelTrack")
+                Text("MyFuelTracker")
                     .font(.some(Font.system(.title2,design: .rounded)))
                     .fontWeight(.semibold)
                     .foregroundColor(Color.primary)

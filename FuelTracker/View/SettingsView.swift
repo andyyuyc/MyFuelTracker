@@ -33,7 +33,7 @@ struct SettingsView: View {
                             .cornerRadius(9)
                             .padding(.vertical)
                         VStack {
-                            Text("MyFuelTrack provides an easy way to log your car's fuel expenses. Track fuel costs.")
+                            Text("MyFuelTracker provides an easy way to log your car's fuel expenses. Track fuel costs.")
                                 .fixedSize(horizontal: false, vertical: true)
                                 .padding(.vertical)
                             Spacer()
